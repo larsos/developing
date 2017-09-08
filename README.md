@@ -1,29 +1,29 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Animals Around the World</title>
+  <title>Animals Around the World<title>
 
 </head>
 <body>
-  <h1>The Brown Bear</h1>
-  <!-- A section that describes the brown bear -->
-  <p>The brown bear (Ursus arctos) is native to parts of northern Eurasia and North America. Its conservation status is currently "Least Concern." There are many subspecies within the brown bear species, including the Atlas bear and the Himalayan brown bear.</p>
-  <a href="https://en.wikipedia.org/wiki/Brown_bear">Learn More</a>
-  <p>Here are some bear species:</p>
+  <h1>coding</h1>
+
+  <p> Coding is what makes it possible for us to create computer software </p>
+  <a href="http://www.codeconquest.com/what-is-coding/">Learn More</a>
+  <p>Here are some languages species:</p>
   <ul>
-    <li>Arctos</li>
-    <li>Collarus</li>
-    <li>Horribilis</li>
-    <li>Nelsoni (extinct)</li>
+    <li>Java</li>
+    <li>Python</li>
+    <li>Ruby</li>
+    <li>html</li>
   </ul>
-  <p>The following countries have the largest populations of brown bears:</p>
+  <p>The following countries have the largest variety of programmers:</p>
   <ol>
     <li>Russia</li>
     <li>United States</li>
-    <li>Canada</li>
+    <li>Belgium</li>
   </ol>
-  <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank">
-    <img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" /></a>
+  <a href="http://www.codeconquest.com/what-is-coding/" target="_blank">
+    <img src="https://www.google.be/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjhopjeypXWAhUBqxoKHbXfBmAQjRwIBw&url=https%3A%2F%2Fwarroom.securestate.com%2Fctf-example-coding%2F&psig=AFQjCNH5oNx5X4qVrhTfNCS7T2R8vdf-lg&ust=1504959919940157" /></a>
 </body> 
 </html>
 
