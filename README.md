@@ -1,7 +1,7 @@
-</DOCTYPE HTML> # developing
+# developing
 <p> the beginning of coding </p>
 <head>
-<title> Coding part 1 </title>
+</title> Coding part 1 
 <br>
 </head>
 
