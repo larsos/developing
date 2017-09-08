@@ -1,8 +1,8 @@
 </DOCTYPE HTML> # developing
 <p> the beginning of coding </p>
 <head>
-<Title> coding part 1 </Title>
-
+<title> Coding part 1 </title>
+<br>
 </head>
 
 <ul> coding </ul>
