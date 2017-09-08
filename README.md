@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Animals Around the World<title>
+  <title>coding around the World<title>
 
 </head>
 <body>
@@ -23,7 +23,7 @@
     <li>Belgium</li>
   </ol>
   <a href="http://www.codeconquest.com/what-is-coding/" target="_blank">
-    <img src="https://www.google.be/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjhopjeypXWAhUBqxoKHbXfBmAQjRwIBw&url=https%3A%2F%2Fwarroom.securestate.com%2Fctf-example-coding%2F&psig=AFQjCNH5oNx5X4qVrhTfNCS7T2R8vdf-lg&ust=1504959919940157" /></a>
+    <img src="https://www.google.be/search?q=coding&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiH1-iEypXWAhWEmBoKHR4aAAcQ_AUICigB#imgrc=pRh2_aARmm_omM:" /></a>
 </body> 
 </html>
 
