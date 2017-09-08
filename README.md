@@ -23,7 +23,7 @@
     <li>Belgium</li>
   </ol>
   <a href="http://www.codeconquest.com/what-is-coding/" target="_blank">
-    <img src="" /></a>
+    <img src="http://www.codeconquest.com/wp-content/uploads/Treehouse.png" /></a>
 </body> 
 </html>
 
