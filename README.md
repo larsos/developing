@@ -1,7 +1,7 @@
 # developing
 <p> the beginning of coding </p>
 <head>
-Coding part 1 
+<h1> Coding part 1 </h1>
 <br>
 </head>
 
